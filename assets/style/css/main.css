@@ -1605,7 +1605,7 @@
 .modify--mb:last-child .container-img__grap-after::after {
     content: "";
     position: absolute;
-    background-image: url('/assets/img/plus.png');
+    background-image: url('../../img/plus.png');
     background-repeat: no-repeat;
     background-color: rgba(0, 0, 0, 0.3);
     background-position: center;
